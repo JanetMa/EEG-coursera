@@ -1,8 +1,11 @@
 Exploring Neural Data (Coursera)
-============
+====================
 All the programming assignment of
 
-Exploring Neural Data
-by Monica Linden, David Sheinberg 
+[Exploring Neural Data coursera course](https://www.coursera.org/course/neuraldata) by Monica Linden, David Sheinberg 
 
-https://class.coursera.org/neuraldata-001
+how to use
+----------
+
+
+
