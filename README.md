@@ -6,6 +6,7 @@ All the programming assignment of
 
 how to use
 ----------
+Download and install [Anaconda](http://continuum.io/downloads), a free Python distribution
 
 
-
+This is still a work-in-progress.
