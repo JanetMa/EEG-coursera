@@ -1,5 +1,8 @@
-EEG-coursera
+Exploring Neural Data (Coursera)
 ============
 All the programming assignment of
 
-Exploring Neural Data (Coursera) https://class.coursera.org/neuraldata-001
+Exploring Neural Data
+by Monica Linden, David Sheinberg 
+
+https://class.coursera.org/neuraldata-001
